@@ -1,3 +1,5 @@
+// Implemented by Logan Brenningmeyer
+
 #include <CL/sycl.hpp>
 #include <chrono>
 #include <iostream>
